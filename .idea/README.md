@@ -1,0 +1,1 @@
+This is a menu of a drawing game
